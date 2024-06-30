@@ -26,8 +26,6 @@
 
 ###
 
-
-###
 <div align="center">
 <img src="https://i.pinimg.com/originals/87/df/db/87dfdbf8931c080719a61bf133449ae1.gif" alt="Pheonix" />
 </div>
