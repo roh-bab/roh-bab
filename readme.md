@@ -1,4 +1,4 @@
-<b>Hi, I am Rohit Babu, Data Analyst</b>
+<span style="font-size:2em;">Hi, I am Rohit Babu, Data Analyst</span>
 
 ###
 
