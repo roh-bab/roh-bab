@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://github.com/Luckshaya/Luckshaya/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/roh-bab/roh-bab/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
