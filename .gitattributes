@@ -1,2 +1,4 @@
 *.sql linguist-detectable=true
 *.sql diff
+*.xlsx linguist-detectable=true
+*.xlsx diff
