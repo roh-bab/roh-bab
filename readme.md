@@ -1,8 +1,16 @@
 <span style="font-size:5.1em;">Hi, I am Rohit, a data analyst. I have a good knowledge of PlSql,Excel,Power BI.I have worked with Data Migration,Application development and Data Analysis teams.</span>
 
 ###
+<div align="center">
+Plsql
+https://github.com/roh-bab/SQL-PLSQL
 
+Excel
+https://github.com/roh-bab/excel
 
+Python
+https://github.com/roh-bab/Data-Analysis-using-python
+</div>
 
 ###
 
