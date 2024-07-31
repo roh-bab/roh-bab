@@ -1,6 +1,5 @@
 <span style="font-size:5.1em;">Hi, I am Rohit,<br> a data analyst.<br> I have a good knowledge of PlSql,Excel,Power BI.<br>I have worked with Data Migration,Application development and Data Analysis teams.<br>I like to experiment things <br> I believe in God <br> I like to spend time with nature</span>
-<img src = "![Gemini_Generated_Image_lmhc0qlmhc0qlmhc](https://github.com/user-attachments/assets/232ba739-0bc0-4dc9-a489-aab04103b2d4)
-">
+<img ![Gemini_Generated_Image_lmhc0qlmhc0qlmhc](https://github.com/user-attachments/assets/232ba739-0bc0-4dc9-a489-aab04103b2d4>
 ###
 <div align="center">
 
