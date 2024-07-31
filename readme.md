@@ -1,10 +1,10 @@
 <span style="font-size:5.1em;">Hi, I am Rohit,<br> a data analyst.<br> I have a good knowledge of PlSql,Excel,Power BI.<br>I have worked with Data Migration,Application development and Data Analysis teams.<br>I like to experiment things <br> I believe in God <br> I like to spend time with nature</span>
-<img src = "https://i.pinimg.com/originals/48/a2/32/48a232f6e73db1c30f2777d4ee3572d2.jpg">
+<img src = "https://lh3.googleusercontent.com/gg/AJIvXiuLh09Pv7qa-pZ2lGgbueRYPsVTwX35sCBB-nxLGRlVnoDkxWI7xc9HDoFh-EQ_R7iPsyx4uzhqvgRDZulULEXYp3U0YbfpAdZ_kqKZhmxHvqwfNkdet0V9W_O--mnJkBBm4yo2NtVhdIL3AI2K0IPLWdZ0FVhoCnGu1oSQepTiqR5Zj8Q">
 ###
 <div align="center">
 
 Plsql
-https://github.com/roh-bab/SQL-PLSQL>
+https://github.com/roh-bab/SQL-PLSQL
 
 Excel
 https://github.com/roh-bab/excel
