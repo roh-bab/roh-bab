@@ -2,7 +2,8 @@
 
 ###
 <div align="center">
-<img src="https://th.bing.com/th/id/OIP.TJUh4-snpvzMADWqIJo-pgHaE8?rs=1&pid=ImgDetMain Plsql
+
+Plsql
 https://github.com/roh-bab/SQL-PLSQL>
 
 Excel
