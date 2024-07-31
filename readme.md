@@ -1,6 +1,6 @@
 <span style="font-size:5.1em;">Hi, I am Rohit,<br> a data analyst.<br> I have a good knowledge of PlSql,Excel,Power BI.<br>I have worked with Data Migration,Application development and Data Analysis teams.<br>I like to experiment things <br> I believe in God <br> I like to spend time with nature</span>
 <div align="left">
-<img src="https://img.freepik.com/premium-photo/illustration-person-looking-universe_863013-39322.jpg" width="800" height="400"  alt="Rohit" />
+<img src="https://img.freepik.com/premium-photo/illustration-person-looking-universe_863013-39322.jpg" width="800" height="200"  alt="Rohit" />
 </div>
 ###
 <div align="center">
