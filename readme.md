@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-###
+
 Plsql
 https://github.com/roh-bab/SQL-PLSQL
 
@@ -14,7 +14,7 @@ https://github.com/roh-bab/excel
 Python
 https://github.com/roh-bab/Data-Analysis-using-python
 
-###
+
 </div>
 
 
