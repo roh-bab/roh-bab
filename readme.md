@@ -1,4 +1,4 @@
-<span style="font-size:5.1em;">Hi, I am Rohit,<br> a data analyst. I have a good knowledge of PlSql,Excel,Power BI.I have worked with Data Migration,Application development and Data Analysis teams.</span>
+<span style="font-size:5.1em;">Hi, I am Rohit,<br> a data analyst.<br> I have a good knowledge of PlSql,Excel,Power BI.<br>I have worked with Data Migration,Application development and Data Analysis teams.<br>I like to experiment things <br> I believe in God <br> I like to spend time with nature</span>
 <img src = "https://i.pinimg.com/originals/48/a2/32/48a232f6e73db1c30f2777d4ee3572d2.jpg">
 ###
 <div align="center">
