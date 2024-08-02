@@ -1,10 +1,11 @@
 
 <div align="left">
-<img src="https://github.com/roh-bab/roh-bab/blob/main/rohitB.png"  width="400" height="auto" alt="Rohit" />
+<img src="https://github.com/roh-bab/roh-bab/blob/main/rohit.png"  width="400" height="auto" alt="Rohit" />
 </div>
 
-<div align="lefy">
-
+<div align="left">
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-
+  
 Plsql
 https://github.com/roh-bab/SQL-PLSQL
 
@@ -14,6 +15,7 @@ https://github.com/roh-bab/excel
 Python
 https://github.com/roh-bab/Data-Analysis-using-python
 
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-
 
 </div>
 
