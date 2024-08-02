@@ -3,7 +3,7 @@
 <img src="https://github.com/roh-bab/roh-bab/blob/main/rohit.png"  width="400" height="auto" alt="Rohit" />
 </div>
 
-<div align="left">
+<div align="center">
 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-
   
 Plsql
@@ -34,10 +34,4 @@ https://github.com/roh-bab/Data-Analysis-using-python
   <a href="https://www.instagram.com/rohit.babu.1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/87/df/db/87dfdbf8931c080719a61bf133449ae1.gif" alt="Pheonix" />
 </div>
