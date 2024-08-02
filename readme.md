@@ -1,6 +1,6 @@
 
 <div align="left">
-<img src="https://github.com/roh-bab/roh-bab/blob/main/rohit.png"  width="600" height="auto" alt="rohit" />
+<img src="https://github.com/roh-bab/roh-bab/blob/main/rohit.png"  width="auto" height="auto" alt="rohit" />
 </div>
 
 <div align="center">
