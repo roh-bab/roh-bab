@@ -1,9 +1,9 @@
-<span style="font-size:5.1em;">Hi, I am Rohit,<br> a data analyst.<br> I have a good knowledge of PlSql,Excel,Power BI.<br>I have worked with Data Migration,Application development and Data Analysis teams.<br>I like to experiment things <br> I believe in God <br> I like to spend time with nature</span>
+
 <div align="left">
 <img src="https://github.com/roh-bab/roh-bab/blob/main/rohitB.png"  width="400" height="auto" alt="Rohit" />
 </div>
 
-<div align="right">
+<div align="center">
 
 Plsql
 https://github.com/roh-bab/SQL-PLSQL
