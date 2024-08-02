@@ -3,7 +3,7 @@
 <img src="https://github.com/roh-bab/roh-bab/blob/main/RohitAi.jpeg"  width="400" height="auto" alt="Rohit" />
 </div>
 
-<div align="center">
+<div align="right">
 
 Plsql
 https://github.com/roh-bab/SQL-PLSQL
